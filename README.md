@@ -37,6 +37,8 @@
   <a href="https://www.linkedin.com/in/vtoebe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+  ![Snake animation](https://github.com/vtoebe/vtoebe/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **vtoebe/vtoebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
