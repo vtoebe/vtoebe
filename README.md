@@ -28,17 +28,17 @@
     
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtoebe&layout=compact&langs_count=5&theme=jolly"/> -->
 </div>
+  
+  ![Snake animation](https://github.com/vtoebe/vtoebe/blob/output/github-contribution-grid-snake.svg)
 
-#
-
+  #
+  
 <div align="center"> 
   <a href="https://instagram.com/vtoebe" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vrtoebe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vtoebe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  
-  ![Snake animation](https://github.com/vtoebe/vtoebe/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **vtoebe/vtoebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
