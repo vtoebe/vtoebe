@@ -24,7 +24,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vtoebe&theme=dark" alt="vtoebe" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtoebe&show_icons=true&title_color=000000&bg_color=d78121&locale=en" alt="vtoebe" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtoebe&show_icons=true&title_color=000000&bg_color=d78121&locale=en&layout=compact" alt="vtoebe" /></p>
-  <img alt="Code Time" src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/2650?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+<!--   <img alt="Code Time" src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/2650?logoColor=white%26project=%26recentMS=0%26showProject=false" /> -->
 </div>
   
   ![Snake animation](https://github.com/vtoebe/vtoebe/blob/output/github-contribution-grid-snake.svg)
