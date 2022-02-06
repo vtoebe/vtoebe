@@ -1,7 +1,6 @@
 ![top (1800 x 400 px) (2)](https://user-images.githubusercontent.com/21991501/137603068-24caeab3-f241-4e7b-bea3-3cce9cfe983b.png)
 
 
-
 <div align="center">
   
 # 🌱 Web Full Stack Dev in Dev
